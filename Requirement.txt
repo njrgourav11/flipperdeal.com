@@ -1,18 +1,18 @@
 Website Like Flippa: Client Requirement Document
 
-1. Project Overview
+###1. Project Overview
 This document outlines the requirements and estimated costs for developing a marketplace website similar to Flippa, where users can buy and sell digital assets such as websites, domains, and applications.
 
 ---
 
-### 2. Functional Requirements
+###2. Functional Requirements
 
-#### User Management
+####User Management
 - User registration/login (email, Google/Facebook login options).
 - Profile creation for buyers and sellers.
 - Account verification via email/phone.
 
-#### Listing Management
+####Listing Management
 - Create, edit, and manage listings.
 - Categorization for assets (websites, domains, apps).
 - Auction and direct sale options.
